@@ -1,0 +1,23 @@
+//
+//  Development.xcconfig
+//  DalleApp
+//
+//  Created by Kushagra Shukla on 06/09/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+//App
+APP_NAME = ImaginAI
+APP_BUNDLE_ID = com.kushagrashukla.DalleApp
+
+//DALLE OpenAI
+API_KEY = your api key here
+
+
+//RevenueCat
+REVENUE_CAT_OFFER = your entitlement identifier here (example Premium)
+REVENUE_CAT_API_KEY = your api key here
+REVENUE_CAT_APP_ID = your app id here
